@@ -1,9 +1,5 @@
 # MGMT Methylation Status Prediction in Glioblastoma using Multiparametric MRI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Python](https://img.shields.io/badge/Python-3.7-blue)
-![Framework](https://img.shields.io/badge/Framework-Keras-red)
-
 A deep learning project for non-invasive prediction of **MGMT promoter methylation status** in glioblastoma patients using multiparametric MRI, without the need for surgical biopsy.
 
 ---
@@ -94,7 +90,7 @@ The app can be deployed locally via Docker and integrates with hospital PACS/RIS
 
 ```
 Python 3.7.0
-Tensorflow/Keras
+PyTorch
 SciPy 1.4.0
 Panda
 NumPy
