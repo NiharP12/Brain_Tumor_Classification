@@ -95,15 +95,3 @@ SciPy 1.4.0
 Panda
 NumPy
 ```
-
----
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-## Contact
-
-For questions or collaborations, feel free to open an issue or reach out via email.
