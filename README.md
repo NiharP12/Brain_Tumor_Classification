@@ -94,7 +94,7 @@ The app can be deployed locally via Docker and integrates with hospital PACS/RIS
 
 ```
 Python 3.7.0
-PyTorch
+Tensorflow/Keras
 SciPy 1.4.0
 Panda
 NumPy
